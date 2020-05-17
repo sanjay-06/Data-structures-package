@@ -1,0 +1,8 @@
+new file
+open file
+list
+new file1
+list
+delete file
+open file
+close
